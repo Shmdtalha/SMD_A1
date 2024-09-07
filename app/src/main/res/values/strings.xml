@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="SenderFormTitle">SENDER\nDETAILS</string>
+    <string name="ReceiverFormTitle">RECEIVER\nDETAILS</string>
+    <string name="FormTitle_emailHint">Email Addresss</string>
+    <string name="senderformbutton">NEXT</string>
+    <string name="receiverformbutton">NEXT</string>
+    <string name="fullNameHint">Full Name</string>
+    <string name="contactHint">Contact Information</string>
+    <string name="countryHint">Country</string>
+    <string name="addressHint">Address</string>
+</resources>

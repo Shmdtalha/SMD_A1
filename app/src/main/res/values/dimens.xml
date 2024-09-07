@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="FormHeader_height">120dp</dimen>
+    <dimen name="FormHeader_textSize">40sp</dimen>
+    <dimen name="inputFieldHeight">48dp</dimen>
+    <dimen name="inputFieldWidth">300dp</dimen>
+</resources>
